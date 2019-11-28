@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+#test{
+background-color:rgb(255, 255, 255);
+color: #ffffff;
+padding: 15px;
+margin: 15px;
+border:7px solid red;
+border-radius: 100px;
+margin-left:0px;
+margin-right:0px;
+
+
+
+}
+p{
+    color: white;
+    font-size: 100px;
+    line-height: 10px;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    margin-left:110px;
+    font-family: 'Raleway', sans-serif;
+}
+
+  body {
+   background: #ccf url("https://i2.rozetka.ua/goods/8646696/61186739_images_8646696091.jpg") no-repeat center center fixed;
+   background-size: cover;
+  }
+  .d7 input {
+    width: 600px;
+    height: 65px;
+    padding-left: 15px;
+    border-radius: 42px;
+    border: 2px solid #324b4e;
+    background: #F9F0DA;
+    outline: none;
+    position: relative;
+    transition: .3s linear;
+  }
+  .d7 input:focus {
+    width: 300px;
+  }
+  .d7 button {
+    width: 42px;
+    height: 42px;
+    background: none;
+    border: none;
+    position: absolute;
+    top: -2px;
+    right: 0;
+  }
+  .d7 button:before{
+    content: "\f002";
+    font-family: FontAwesome;
+    color: #324b4e;
+  }
+  div{
+      margin-right:100px;
+  }
+  
+.p{
+
+    display: inline-block;
+    width:41%;
+    
+}
+.p1{
+    font-size: 100px;
+}
+.p2{
+    font-size: 50px;
+    margin-right: 10px;
+}
